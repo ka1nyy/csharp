@@ -4,6 +4,7 @@ int sum = i1 + i2;
 Console.WriteLine(sum);
 
 long l1 = 6;
+long l2 = 9;
 long sum2 = l1 + i1;
 Console.WriteLine(sum2);
 
@@ -24,3 +25,9 @@ Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+int producthw = i1 * i2;
+long sumhw = l1 + l2;
+double answer = producthw / sumhw;
+Console.WriteLine(answer);
+
